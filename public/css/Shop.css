@@ -1,0 +1,15 @@
+.card{
+    background-color: transparent;
+}
+.card:hover{
+    background-color: rgb(12, 12, 12) ;
+    transition-delay: 0.2s;
+    transition-duration: 1s ;
+}
+
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+}

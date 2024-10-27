@@ -1,0 +1,19 @@
+.Full-screen{
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 200px;
+}
+
+
+.Full-screen2{
+    height: 100vh;
+}
+
+
+body {
+    height: 100vh;
+    overflow: hidden;
+}

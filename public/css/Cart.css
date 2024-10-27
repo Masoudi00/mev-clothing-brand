@@ -1,0 +1,59 @@
+/* Custom dark theme styles for the Cart page */
+
+/* Body background */
+body {
+    background-color: #121212; /* Dark grey background */
+    color: #fff; /* White text */
+}
+
+/* Card background */
+.card {
+    background-color: #212121; /* Darker grey card background */
+    color: #fff; /* White text */
+}
+
+/* Card header */
+.card-header {
+    background-color: #424242; /* Darker grey card header background */
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #1976D2; /* Dark blue */
+    border-color: #1976D2; /* Dark blue border */
+}
+
+.btn-primary:hover {
+    background-color: #1565C0; /* Darker blue on hover */
+    border-color: #1565C0; /* Darker blue border on hover */
+}
+
+.btn-secondary {
+    background-color: #455A64; /* Dark grey-blue */
+    border-color: #455A64; /* Dark grey-blue border */
+}
+
+.btn-secondary:hover {
+    background-color: #37474F; /* Darker grey-blue on hover */
+    border-color: #37474F; /* Darker grey-blue border on hover */
+}
+
+/* Input fields */
+.form-control {
+    background-color: #333; /* Dark grey input field background */
+    color: #fff; /* White text */
+}
+
+/* Quantity buttons */
+.decrement-quantity,
+.increment-quantity {
+    background-color: #1976D2; /* Dark blue for quantity buttons */
+    border-color: #1976D2; /* Dark blue border */
+    color: #fff; /* White text */
+}
+
+.decrement-quantity:hover,
+.increment-quantity:hover {
+    background-color: #1565C0; /* Darker blue on hover */
+    border-color: #1565C0; /* Darker blue border on hover */
+}

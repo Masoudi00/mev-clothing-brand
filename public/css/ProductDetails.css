@@ -1,0 +1,22 @@
+.size-button {
+    background-color: #f8f9fa; /* Default background color */
+    color: #495057; /* Default text color */
+    border: 1px solid #ced4da; /* Border color */
+    padding: 8px 16px; /* Padding */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Cursor style */
+    margin-right: 10px; /* Spacing between buttons */
+    border-radius: 5px;
+}
+
+/* Add styles for selected button */
+.size-button.selected {
+    background-color: #28a745; /* Selected background color */
+    color: #fff; /* Selected text color */
+    border-color: #000000; /* Selected border color */
+}
+
+
+.size-buttons {
+    margin-bottom: 20px; /* Spacing below buttons */
+}
