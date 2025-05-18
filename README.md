@@ -97,20 +97,7 @@ A modern e-commerce web application for the Mev clothing brand, built with Larav
 
 ---
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
----
-
-## License
-This project is open-sourced under the MIT license.
-
----
-
-## Contact
-For questions or support, please contact the project maintainer at [your-email@example.com].
-
----
 
 > _Mev Clothing Brand - Mastering Excellence And Versatility!_
 
